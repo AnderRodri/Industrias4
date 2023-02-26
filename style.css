@@ -1,0 +1,29 @@
+footer {
+  display: block;
+  border: 3px solid brown;
+  border-radius: 30px;
+  text-align: center;
+  justify-content: center;
+  background-color: green;
+  color: black;
+  margin: 5px 0 0 0;
+}
+body {
+  background-image: url(.);
+  background-position: center;
+  background-size: 37cm;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+a {
+  display: block;
+  border: 5px solid forestgreen;
+  border-radius: 30px;
+  text-align: center;
+  justify-content: center;
+  background-color: gray;
+  color: black;
+  padding: 5px;
+  margin: 70px 0 0;
+  font-size: large;
+}

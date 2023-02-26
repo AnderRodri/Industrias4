@@ -1,15 +1,15 @@
 footer {
   display: block;
-  border: 3px solid brown;
+  border: 3px solid black;
   border-radius: 30px;
   text-align: center;
   justify-content: center;
-  background-color: green;
+  background-color: gray;
   color: black;
-  margin: 5px 0 0 0;
+  margin: 600px 450px 0;
 }
 body {
-  background-image: url(.);
+  background-image: url(./assets/final-img.jpg);
   background-position: center;
   background-size: 37cm;
   background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body {
 }
 a {
   display: block;
-  border: 5px solid forestgreen;
+  border: 5px solid black;
   border-radius: 30px;
   text-align: center;
   justify-content: center;

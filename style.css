@@ -27,3 +27,15 @@ a {
   margin: 70px 0 0;
   font-size: large;
 }
+#the-end a {
+  display: block;
+  border: 2px solid blue;
+  border-radius: 30px;
+  text-align: center;
+  justify-content: center;
+  background-color: black;
+  color: blue;
+  padding: 5px;
+  margin: 265px 400px 0;
+  text-decoration: none;
+}

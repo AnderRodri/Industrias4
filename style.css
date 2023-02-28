@@ -6,37 +6,32 @@ footer {
   justify-content: center;
   background-color: gray;
   color: black;
-  margin: 410px 450px 0;
-
+  margin: 450px 450px 0;
 }
 body {
   background-image: url(./assets/final-img.jpg);
   background-position: center;
   background-size: 41cm;
   background-repeat: no-repeat;
-  height: 90vh;
+  height: 100vh;
 }
 a {
   display: block;
-  border: 5px solid black;
   border-radius: 30px;
   text-align: center;
   justify-content: center;
-  background-color: gray;
-  color: black;
   padding: 5px;
-  margin: 0px 0 0;
   font-size: large;
 }
 #the-end a {
   display: block;
-  border: 2px solid blue;
+  border: 2px solid cyan;
   border-radius: 30px;
   text-align: center;
   justify-content: center;
-  background-color: black;
-  color: blue;
+  background-color: gray;
+  color: white;
   padding: 5px;
-  margin: 265px 400px 0;
+  margin: 5px 400px 0;
   text-decoration: none;
 }
